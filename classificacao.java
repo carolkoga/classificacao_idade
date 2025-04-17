@@ -52,5 +52,7 @@ public class classificacao{
                     System.out.println(nome + " não pode participar do campeonato.");
                 }
             }
+            scanner.close();
+            System.out.println("\nPrograma Finalizado!");
         }
     }
