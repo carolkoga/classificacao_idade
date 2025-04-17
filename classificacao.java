@@ -12,7 +12,8 @@ public class classificacao{
 
         //cadastrar 3 campos:
         for (i=1 ; i<=3 ; i ++){
-
+            //nome do usuario com verificação de caracter:
+            }
         }
     }
 };
